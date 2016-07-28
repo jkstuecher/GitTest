@@ -2,4 +2,6 @@ Initial File 1 text in master branch. Additional Change.
 
 Additional changes to File 1.
 
-Ammended changes
+Ammended changes.
+
+Version 2 Changes.
